@@ -52,7 +52,7 @@ a {
 }
 
 #menu a:hover {
-    color: rgba(227, 188, 58, 0.796);
+    color: rgba(193, 143, 8, 0.796);
 }
 
 /* Adding hero-image */
@@ -99,7 +99,7 @@ a {
 }
 
 #sick-image {
-    height: 45vh;
+    height: 50vh;
     width: 45vw;
     border-radius: 50%;
     margin: 0 auto;
