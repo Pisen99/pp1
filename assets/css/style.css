@@ -170,6 +170,21 @@ footer {
     font-size: 3rem;
 }
 
+/* Take user back up button */
+#up-button {
+    font-size: 6rem;
+    opacity: 0.8;
+    position: fixed;
+    background: transparent;
+    left: 10%;
+    bottom: 10%;
+}
+
+#icon {
+    background: transparent;
+}
+
+
 /* Media Queries min-width 375px max-width 844px */
 @media screen and (min-width:375px) and (max-width:844px) {
     header {
@@ -242,7 +257,7 @@ footer {
     }
 
     #up-button {
-        margin: 0;
+        font-size: 2rem;
     }
 }
 
