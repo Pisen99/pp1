@@ -34,3 +34,34 @@ a {
 #menu a:hover {
     color: rgba(227, 188, 58, 0.796);
 }
+
+/* Adding hero-image */
+#hero-outer {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    box-shadow: -1px 0px 20px 4px rgb(57 37 37);
+}
+
+#hero-image {
+    height: 60vh;
+    width: 100%;
+    opacity: 0.8;
+    background: url(../images/hero-1.png) no-repeat center center;
+    background-size: cover;
+
+    /* Animating zoom effect */
+    animation-name: hero-zoom;
+    animation-duration: 4s;
+    animation-fill-mode: forwards;
+   }
+   
+   /* Zoom scale for hero-image */
+   @keyframes hero-zoom {
+   from{
+       transform: scale(1.2);
+   }
+   to{
+       transform: scale(1);
+   }
+   }
