@@ -121,3 +121,19 @@ a {
     box-shadow: -1px 0px 20px 4px rgb(57 37 37);
     border: 3px solid rgb(125, 95, 95)
 }
+
+/* Labels & input */
+.form-label {
+    font-size: 1.1rem;
+    font-family: 'Roboto Slab', serif;
+    color: rgb(57, 37, 37);
+}
+
+.form-input {
+    height: 3vh;
+    width: 14vw;
+    background: transparent;
+    border: 2px solid rgb(125, 95, 95);
+    color: rgb(57, 37, 37);
+    font-family: 'Roboto Slab', serif;
+}
