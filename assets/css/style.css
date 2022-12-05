@@ -160,3 +160,15 @@ a {
     font-family: 'Roboto Slab', serif;
     border-radius: 10%;
 }
+
+/* Footer & social media */
+footer {
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.social-media {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 3rem;
+}
