@@ -258,6 +258,10 @@ footer {
     .social-media li {
         font-size: 2rem;
     }
+
+    #up-button {
+        margin: 0;
+    }
 }
 
 /* Media Queries min-width 481 & max-width 820px */
