@@ -205,9 +205,12 @@ footer {
     }
 
     .image {
-        margin: 0;
         height: 30vh;
         width: 60vw;
+    }
+
+    .hacks-container {
+        margin-top: 4rem;
     }
 
     #video {
