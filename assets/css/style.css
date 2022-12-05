@@ -16,6 +16,10 @@ p {
     padding: 2rem;
 }
 
+hr {
+    margin-top: 2rem;
+    border: none;
+}
 /* Styling header and nav bar */
 #logo {
     text-align: center;
@@ -136,4 +140,23 @@ a {
     border: 2px solid rgb(125, 95, 95);
     color: rgb(57, 37, 37);
     font-family: 'Roboto Slab', serif;
+}
+
+/* Text-area & button */
+#message {
+    background: transparent;
+    border: 2px solid rgb(125, 95, 95);
+    color: rgb(57, 37, 37);
+    font-family: 'Roboto Slab', serif;
+}
+
+#button {
+    height: 4vh;
+    width: 8vw;
+    font-size: 1rem;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: rgb(57, 37, 37);
+    font-family: 'Roboto Slab', serif;
+    border-radius: 10%;
 }
