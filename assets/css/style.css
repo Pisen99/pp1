@@ -1,5 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&family=Rubik+Microbe&display=swap');
 
+* {
+    background-color: rgb(198, 176, 168);
+}
+
+h1, h2 {
+    text-transform: uppercase;
+    color: rgb(57, 37, 37);
+    font-family: 'Roboto Slab', serif;
+}
+
+p {
+    color: rgb(57, 37, 37);
+    font-family: 'Roboto Slab', serif;
+}
+
 /* Styling header and nav bar */
 #logo {
     text-align: center;
