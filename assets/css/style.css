@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&family=Rubik+Microbe&display=swap');
 
 * {
-    background-color: rgb(198, 176, 168);
+    background-color: rgb(238,217,196);
 }
 
 h1, h2 {
@@ -168,24 +168,6 @@ footer {
     display: flex;
     justify-content: space-evenly;
     font-size: 3rem;
-}
-/* Take user back up button */
-#button-text {
-    padding: .3rem;
-}
-
-#up-button {
-    display: flex;
-    justify-content: center;
-    color: rgb(57, 37, 37);
-    text-transform: uppercase;
-    height: 6rem;
-    width: 6rem;
-    text-align: center;
-    box-shadow: -1px 0px 20px 4px rgb(57 37 37);
-    border: 3px solid rgb(125, 95, 95);
-    border-radius: 50%;
-    margin-left: 4rem;
 }
 
 /* Media Queries min-width 375px max-width 844px */
