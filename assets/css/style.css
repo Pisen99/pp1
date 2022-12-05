@@ -226,4 +226,8 @@ footer {
     width: 20%;
     height: 20%;
     }
+
+    .social-media li {
+        font-size: 2rem;
+    }
 }
