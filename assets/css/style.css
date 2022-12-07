@@ -187,6 +187,7 @@ footer {
     left: 5%;
     bottom: 0%;
     color: rgba(176, 221, 140, 0.74);
+    z-index: 1;
 }
 
 #icon {
