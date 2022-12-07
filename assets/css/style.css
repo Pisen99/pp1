@@ -175,6 +175,7 @@ footer {
     display: flex;
     justify-content: space-evenly;
     font-size: 3rem;
+    opacity: 0.8;
 }
 
 /* Take user back up button */
