@@ -13,7 +13,6 @@ Or you could leave a message if you have a good one yourself,
 it's up to you if you want to leave a message or not.
 ![screenshot](images.readme/AmIResp.png)
 
-
 ## Index - table of contents
 
 * [Description](#description)
@@ -30,7 +29,7 @@ it's up to you if you want to leave a message or not.
 ## User Experience
 
 * A.First Time Visitor Goals
-  * a. As a first time visitor, I want to easily understand the websites purpose and find out more about it.
+  * a. As a first time visitor, I want to easily understand the websites purpose and read more about it.
   * b. As a first time visitor, I want to navigate fast and easily on the site to find what I´m looking for.
   * c. As a first time visitor, I want to understand the purpose of the websites conent.
   
@@ -48,12 +47,14 @@ it's up to you if you want to leave a message or not.
    ### F1, Navigationbar
       The navigation bar has a simple and easy navigation to it on all devices.
       It´s easy to find the different locators like "Stains", "Feeling sick?" "Sidney Rez" and "Sign-Up".
-      It lights up when the user hovers over the text, making it easier for them to see what part they might klick on.
-  
-  ### F2, Main image
-      The main image is used to point out what vibe the site is giving out.
-      A lightbulp with a bright light giving the impression that this website has a "Idea" or a "solution" to something.
+      It lights up when the user hovers over the text, creating a animating effect and improving the page.
+* ![screenshot](./images.readme/navbar.png)
+
+  ### F2, Hero image
+      The hero image is used to point out what vibe the site is giving out.
+      A little mixture of mixing matcha tea, creating a feeling of home remedies.
       Animating zoom effect going from big to smal, creating a nice enviroment on the website.
+* ![screenshot](../project-1.resub/assets/images/hero.jpg)
 
   ### F3, Iframe video
       The main purpose of the iframe video is to show the visitor what they can discover themselves if they think outside the box. Do they have a life hack or home remedy, they might get inspired and leave a comment to the website to create more content.
@@ -64,25 +65,26 @@ it's up to you if you want to leave a message or not.
 
   ### F5, Footer
       The footer contains what is needed for the visitor to take the next step.
-      Discover more throughout Instagram, Facebook or Twitter.
+      Discover more of throughout Instagram, Facebook or Twitter.
+* ![screenshot](images.readme/footer.png)
 
 
 ## Design
 
 ### Imagery
     I wanted the whole page to have one common thread.
-    When menu is hovered over, color yellow will appear to be the same as the hero image.
-    The brown in the main image goes well togheter with the other colors on the page.
+    When menu is hovered over, color green will appear to be the same as the hero image.
+    The brown in hero image goes well togheter with the other colors on the page.
 
 
 ### Sections
-    I wanted the most important content to be closer to the top of the page.
+    I wanted the most important content to be closer to the top of the page, creating a bigger chans to catch user's attention.
     By dividing up paragraphs in boxes using border color and box shadowing it's easier to read.
     
       
 ### Color Scheme
     Using 3 different shades of brown to have a red-thread in the website.
-    Only yellow is used in hero image and the hover color for the menu.
+    Only green is used in hero image, hover color for the menu and scroll up button.
 * ![screenshot](images.readme/colorscheme.png)
     
 
@@ -99,13 +101,18 @@ it's up to you if you want to leave a message or not.
 ## Technological used
   
 ### Language used,
-HTML5 
-CSS3
+**HTML5** 
+
+**CSS3**
       
 ### Programs and Libraries used,
 [Google fonts](https://fonts.google.com/about) used to import "Roboto Slab", serif" and "Rubik Microbe"
 
 [Font Awesome](https://fontawesome.com/) used to get icons for the footer links and up-button.
+
+[Coolor Scheme](https://coolors.co/) Used to showcase colors used for this website.
+
+[Am I Responsive](https://ui.dev/amiresponsive) used to check responsivness.
 
 [Github](https://github.com/)/[Gitpod](https://www.gitpod.io/) used to save code, commits and pushes.
 
@@ -140,11 +147,6 @@ CSS3
 All content in the "Stains" and "Feeling sick?" sections in this site were written by me with my own experiences.
 
 ### Media
-      
-Icones comes from https://fontawesome.com/
-
-font type comes from https://fonts.google.com/knowledge
-
 Used as an inspiration for creating a button to take user to the top of the page [Debbie Herridge](https://debbie-herridge.github.io/mindfull-meditation/)
       
 Needed a reminder of how buttons work, that I found [here](https://www.w3schools.com/tags/tag_button.asp)
@@ -154,7 +156,7 @@ Created box effect on paragraphs, used this [video](https://www.youtube.com/watc
 Created a text area for visitor to leave a message, used this [video](https://www.youtube.com/watch?v=0X0kovjzLrw&t=15s)
 
 Images used for this website in following order:
-1. [Hero-image](changing)
-2. [Stains-image](changing)
-3. [Feeling-sick image](changing)
+1. ["Hero" image](https://keybroker.se/kundcase/kundaktivering-med-omnichannel)
+2. ["Stains" image](https://www.chemdryofomaha.com/specialty-stain-removal/)
+3. ["Feeling sick" image](https://food.ndtv.com/food-drinks/home-remedies-ginger-honey-pepper-lemon-water-may-help-ease-cold-and-cough-2243952)
 4. [Youtube video](https://www.youtube.com/watch?v=MQcQGAymDJM&t=1s)
