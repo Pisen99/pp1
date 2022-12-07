@@ -132,6 +132,7 @@ a {
 .form-label {
     font-size: 1.1rem;
     font-family: 'Roboto Slab', serif;
+    text-transform: uppercase;
     color: rgb(57, 37, 37);
 }
 
@@ -139,7 +140,8 @@ a {
     height: 3vh;
     width: 14vw;
     background: transparent;
-    border: 2px solid rgb(125, 95, 95);
+    border: none;
+    border-bottom: 2px solid rgb(125, 95, 95);
     color: rgb(57, 37, 37);
     font-family: 'Roboto Slab', serif;
 }
