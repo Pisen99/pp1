@@ -3,6 +3,10 @@
 * {
     background-color: rgb(238,217,196);
 }
+/* Scroll effect for menu links */
+html {
+    scroll-behavior: smooth;
+  }
 
 h1, h2 {
     text-transform: uppercase;
@@ -177,8 +181,9 @@ footer {
     opacity: 0.8;
     position: fixed;
     background: transparent;
-    left: 10%;
-    bottom: 10%;
+    left: 5%;
+    bottom: 0%;
+    color: rgba(176, 221, 140, 0.74);
 }
 
 #icon {
