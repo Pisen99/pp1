@@ -148,7 +148,6 @@ a {
 
 /* Text-area & button */
 #message {
-    text-align: center;
     background: transparent;
     border: 2px solid rgb(125, 95, 95);
     color: rgb(57, 37, 37);
