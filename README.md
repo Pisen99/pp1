@@ -2,15 +2,14 @@
 
 ## Description
 
-**Home Remedies** is all about small remedies you can try out at home.
+**[Home Remedies](https://pisen99.github.io/project-1.resub/)** is all about small remedies you can try out at home.
 Instructions are clear and it's easy to find what you need.
 
 
 What do you do when you spill something on your favourite shirt or desperate for a cure when you're sick.
 We might not have the cure but a few good tips and tricks to make you feel a little bit better.
 If you like this website you can sign-up to get new updates for new home remedies.
-Or you could leave a message if you have a good one yourself,
-it's up to you if you want to leave a message or not.
+Or you could leave a message if you have a good one yourself, it's up to you.
 ![screenshot](images.readme/AmIResp.png)
 
 ## Index - table of contents
@@ -57,13 +56,19 @@ it's up to you if you want to leave a message or not.
 * ![screenshot](../project-1.resub/assets/images/hero.jpg)
 
   ### F3, Iframe video
-      The main purpose of the iframe video is to show the visitor what they can discover themselves if they think outside the box. Do they have a life hack or home remedy, they might get inspired and leave a comment to the website to create more content.
-      The video is fast with it's purpose user gets their answers fast and a little bit about life-hacks or remedies.
+      The main purpose of the iframe video is to show the visitor what they can discover themselves if they think outside the box. Do they have a life hack or home remedy, they might get inspired and leave a comment to the website allowing the website to grow.
 
   ### F4, Icons with a href
       three icons being used at the end of the website, allowing user to click on them to take them where the icon(logo) is but in another tab.
 
-  ### F5, Footer
+    ### F5, Scroll up button
+        Creating a button to float along on the side as the user scrolls on website.
+        Giving them the option to click on the up icon button and go back to top where they can accsses the menu again.
+        I used anchor element to make the button and put an icon inside of it.
+        I styled it to have a green see through effect, that way it wont be taking over other content.
+
+
+  ### F6, Footer
       The footer contains what is needed for the visitor to take the next step.
       Discover more of throughout Instagram, Facebook or Twitter.
 * ![screenshot](images.readme/footer.png)
@@ -75,15 +80,19 @@ it's up to you if you want to leave a message or not.
     I wanted the whole page to have one common thread.
     When menu is hovered over, color green will appear to be the same as the hero image.
     The brown in hero image goes well togheter with the other colors on the page.
+    After trying different images I decided to settle with realistic pictures, instead of cartoon like my plan was from the start
 
 
 ### Sections
-    I wanted the most important content to be closer to the top of the page, creating a bigger chans to catch user's attention.
+    I wanted the most important content to be closer to the top of the page, creating a bigger chance to catch user's attention.
     By dividing up paragraphs in boxes using border color and box shadowing it's easier to read.
     
       
 ### Color Scheme
-    Using 3 different shades of brown to have a red-thread in the website.
+    Using 3 different warm colors to have a red-thread in the website.
+    Almond color is set to the background, creating a warm tone.
+    Deep Taupe is used for the border on sign-up form and paragraphs.
+    Old Burgundy is used for shadowing boxes, the text color to headings, paragraphs and icons.
     Only green is used in hero image, hover color for the menu and scroll up button.
 * ![screenshot](images.readme/colorscheme.png)
     
@@ -94,8 +103,13 @@ it's up to you if you want to leave a message or not.
       
 
 ### Media query
-    Making the website match on different tablets from 320px and up to 3820px.
-    Using flexbox in css making it easier to write the media queries making the code shorter and more readable.
+    Making the website adjust on different tablets from 320px and all the way up to 3820px.
+    Flexbox is a great tool to use in css, it makes media queries easier to write and code shorter and more readable.
+
+### Scroll up button
+    My first attempt to build a buttton that can take user up to menu again worked okay. I tried to create a button like [Debbie Herridge](https://debbie-herridge.github.io/mindfull-meditation/) had done. But realised there must be an easier way.
+    So I took an anchor element and put an icon inside.
+    Styled it to be transparent in both the icon and anchor element, this took away the background color my "button" had.
 
 
 ## Technological used
@@ -108,11 +122,13 @@ it's up to you if you want to leave a message or not.
 ### Programs and Libraries used,
 [Google fonts](https://fonts.google.com/about) used to import "Roboto Slab", serif" and "Rubik Microbe"
 
-[Font Awesome](https://fontawesome.com/) used to get icons for the footer links and up-button.
+[Font Awesome](https://fontawesome.com/) used to get free icons for the footer links and up-button.
 
 [Coolor Scheme](https://coolors.co/) Used to showcase colors used for this website.
 
 [Am I Responsive](https://ui.dev/amiresponsive) used to check responsivness.
+
+[HTML](https://validator.w3.org/#validate_by_uri)/[CSS](https://jigsaw.w3.org/css-validator/) validators used to test code.
 
 [Github](https://github.com/)/[Gitpod](https://www.gitpod.io/) used to save code, commits and pushes.
 
@@ -123,12 +139,12 @@ it's up to you if you want to leave a message or not.
       
 * ### HTML:
     * Trying to pass my code in HTML the first time gave me 1 warning and 1 error. It was an easy fix to these problems. I removed width and height from Iframe video in HTML. Writing the styling in css instead and removing the frameboard compleatly from the video. I'll insert a before picture along with a after picture when code is fixed.
+    * ![screenshot](images.readme/html.png)
     * ![screenshot](images.readme/html-1.png)
-    * ![screenshot](images.readme/html-2.png)
 
 * ### CSS:
     * No problems with this part of the code.
-    * ![screenshot](images.readme/css-1.png)
+    * ![screenshot](images.readme/css.png)
 
 
 ## Deployment
