@@ -19,12 +19,10 @@ it's up to you if you want to leave a message or not.
 * [Description](#description)
 * [Index - Table of contents](#index-table-of-contents)
 * [User Experience](#user-experience)
-* [Structure](structure)
-* [Features](#excisting-features)
+* [Features](#existing-features)
 * [Design](#design)
 * [Technologies used](#technological-used)
-* [Tools Used](#tools)
-* [Tests](#testing)
+* [Tests](#validator-test)
 * [Deployment](#deployment)
 * [Credits](#credits)
 
@@ -87,11 +85,12 @@ it's up to you if you want to leave a message or not.
     Only yellow is used in hero image and the hover color for the menu.
 * ![screenshot](images.readme/colorscheme.png)
     
-      
+
 ### Typography
     I wanted to use a fun font for my header, h1/h2´s and a more serious one for the text content in the rest of the page.
     The colors are soft to the eye and goes well togheter.
       
+
 ### Media query
     Making the website match on different tablets from 320px and up to 3820px.
     Using flexbox in css making it easier to write the media queries making the code shorter and more readable.
@@ -111,20 +110,34 @@ CSS3
 [Github](https://github.com/)/[Gitpod](https://www.gitpod.io/) used to save code, commits and pushes.
 
 
-## Validator test
+## Tests
+
+### Validator test
       
-### HTML:
-Trying to pass my code in HTML the first time gave me 1 warning and 1 error. It was an easy fix to solve these problems. I'll insert a before picture along with a after picture when code is fixed.
-* ![screenshot](images.readme/html-1.png)
-* ![screenshot](images.readme/html-2.png)
+* ### HTML:
+    * Trying to pass my code in HTML the first time gave me 1 warning and 1 error. It was an easy fix to these problems. I removed width and height from Iframe video in HTML. Writing the styling in css instead and removing the frameboard compleatly from the video. I'll insert a before picture along with a after picture when code is fixed.
+    * ![screenshot](images.readme/html-1.png)
+    * ![screenshot](images.readme/html-2.png)
 
-### CSS:
-No problems with this part of the code.
-* ![screenshot](images.readme/css-1.png)
+* ### CSS:
+    * No problems with this part of the code.
+    * ![screenshot](images.readme/css-1.png)
 
+
+## Deployment
+
+* The site was created in GitHub pages, these are the steps to deploy:
+    * Log in to GitHub and go to repositories.
+    * In GitHub on the right side of the repository click on settings.
+    * In settings on the left side menu select "Pages".
+    * Under branch, select "Main" and select folder "(Root)"
+    * Press save and the page will automatically refresh and your site will be att the top. It might take a few minutes, be patient.
 
 
 ## Credits
+
+### Content
+All content in the "Stains" and "Feeling sick?" sections in this site were written by me with my own experiences.
 
 ### Media
       
@@ -134,6 +147,14 @@ font type comes from https://fonts.google.com/knowledge
 
 Used as an inspiration for creating a button to take user to the top of the page [Debbie Herridge](https://debbie-herridge.github.io/mindfull-meditation/)
       
-Needed a reminder of how buttons work, that i found [here]()
-      
-Hero image was downloaded from [here]()
+Needed a reminder of how buttons work, that I found [here](https://www.w3schools.com/tags/tag_button.asp)
+
+Created box effect on paragraphs, used this [video](https://www.youtube.com/watch?v=9e-lWQdO-DA)
+
+Created a text area for visitor to leave a message, used this [video](https://www.youtube.com/watch?v=0X0kovjzLrw&t=15s)
+
+Images used for this website in following order:
+1. [Hero-image](changing)
+2. [Stains-image](changing)
+3. [Feeling-sick image](changing)
+4. [Youtube video](https://www.youtube.com/watch?v=MQcQGAymDJM&t=1s)

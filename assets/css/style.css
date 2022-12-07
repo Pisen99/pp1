@@ -67,7 +67,7 @@ a {
     height: 60vh;
     width: 100%;
     opacity: 0.8;
-    background: url(../images/hero-1.png) no-repeat center center;
+    background: url(../images/hero.jpg) no-repeat center center;
     background-size: cover;
 
     /* Animating zoom effect */
