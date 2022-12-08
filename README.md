@@ -10,7 +10,7 @@ What do you do when you spill something on your favourite shirt or desperate for
 We might not have the cure but a few good tips and tricks to make you feel a little bit better.
 If you like this website you can sign-up to get new updates for new home remedies.
 Or you could leave a message if you have a good one yourself, it's up to you.
-![screenshot](images.readme/AmIResp.png)
+![screenshot](images.readme/respons.png)
 
 ## Index - table of contents
 
@@ -45,7 +45,7 @@ Or you could leave a message if you have a good one yourself, it's up to you.
   
    ### F1, Navigationbar
       The navigation bar has a simple and easy navigation to it on all devices.
-      It´s easy to find the different locators like "Stains", "Feeling sick?" "Sidney Rez" and "Sign-Up".
+      It´s easy to find the different locators like "Stains", "Sick?" "Tips!" and "Sign-Up".
       It lights up when the user hovers over the text, creating a animating effect and improving the page.
 * ![screenshot](./images.readme/navbar.png)
 
@@ -53,7 +53,7 @@ Or you could leave a message if you have a good one yourself, it's up to you.
       The hero image is used to point out what vibe the site is giving out.
       A little mixture of mixing matcha tea, creating a feeling of home remedies.
       Animating zoom effect going from big to smal, creating a nice enviroment on the website.
-* ![screenshot](../project-1.resub/assets/images/hero.jpg)
+* ![screenshot](../project-1.resub/assets/images/hero.jpeg)
 
   ### F3, Iframe video
       The main purpose of the iframe video is to show the visitor what they can discover themselves if they think outside the box. Do they have a life hack or home remedy, they might get inspired and leave a comment to the website allowing the website to grow.
@@ -65,11 +65,12 @@ Or you could leave a message if you have a good one yourself, it's up to you.
         Creating a button to float along on the side as the user scrolls on website.
         Giving them the option to click on the up icon button and go back to top where they can accsses the menu again.
         I used anchor element to make the button and put an icon inside of it.
-        I styled it to have a green see through effect, that way it wont be taking over other content.
+        I styled it to have a green see through effect, that way it wont be taking over other content. I struggled a little bit to find the right colors, eventually I figured something out that works good & moved the button to the right side.
 
-        I realized the footer was covering a smal part of the button on a specific place. I fixed it by adding a     z-index to 1. I'll insert a before & after I saw the problem and fixed it:
+        I realized the footer was covering a smal part of the button on a specific place. I fixed it by adding a z-index to 1. I'll insert a before & after I saw the problem and fixed it:
 * ![screenshot](images.readme/scroll-up-1.png)
 * ![screenshot](images.readme/scroll-up.png)
+* ![screenshot](images.readme/up-button.png)
     
 
 
@@ -98,7 +99,8 @@ Or you could leave a message if you have a good one yourself, it's up to you.
     Almond color is set to the background, creating a warm tone.
     Deep Taupe is used for the border on sign-up form and paragraphs.
     Old Burgundy is used for shadowing boxes, the text color to headings, paragraphs and icons.
-    Only green is used in hero image, hover color for the menu and scroll up button.
+    Granny Smith Apple is only used in hero image and scroll up button.
+    Antique Bronze is used for the hover effect on the menu, I wanted the color to match the hero-image.
 * ![screenshot](images.readme/colorscheme.png)
     
 
