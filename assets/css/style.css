@@ -71,7 +71,7 @@ a {
     height: 60vh;
     width: 100%;
     opacity: 0.8;
-    background: url(../images/bamboo.jpeg) no-repeat center center;
+    background: url(../images/hero.jpeg) no-repeat center center;
     background-size: cover;
 
     /* Animating zoom effect */
@@ -219,7 +219,7 @@ footer {
 
     li {
         display: inline;
-        font-size: 0.5rem;
+        font-size: 1rem;
     }
 
     #hero-outer {
@@ -238,7 +238,7 @@ footer {
 
     .box {
         width: 85%;
-        font-size: 0.5rem;
+        font-size: 1.1rem;
     }
 
     .image {
