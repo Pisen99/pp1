@@ -135,6 +135,8 @@ Or you could leave a message if you have a good one yourself, it's up to you.
 
 [Am I Responsive](https://ui.dev/amiresponsive) used to check responsivness.
 
+[Online PNG to webp](https://ezgif.com/png-to-webp) used when converting images.
+
 [HTML](https://validator.w3.org/#validate_by_uri)/[CSS](https://jigsaw.w3.org/css-validator/) validators used to test code.
 
 [Github](https://github.com/)/[Gitpod](https://www.gitpod.io/) used to save code, commits and pushes.
@@ -152,6 +154,19 @@ Or you could leave a message if you have a good one yourself, it's up to you.
 * ### CSS:
     * No problems with this part of the code.
     * ![screenshot](images.readme/css.png)
+
+* ### Lighthouse:
+    * Trying this out the first time both mobile & desktop didn't come out as planned. The performance was very low on mobile, so I converted the images to webp. It changed a little bit, although the main problem seems to be the youtube video in my website.
+    I'll insert images of what It looks like now.
+
+    Now,
+    * ![screenshot](images.readme/desktop.png)
+    * ![screenshot](images.readme/mobile.png)
+    Before,
+    * ![screenshot](images.readme/mobile-1.png)
+
+* ### Test cases & result:
+    * ![screenshot](images.readme/test.png)
 
 
 ## Deployment
