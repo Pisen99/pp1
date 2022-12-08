@@ -53,7 +53,7 @@ Or you could leave a message if you have a good one yourself, it's up to you.
       The hero image is used to point out what vibe the site is giving out.
       A little mixture of mixing matcha tea, creating a feeling of home remedies.
       Animating zoom effect going from big to smal, creating a nice enviroment on the website.
-* ![screenshot](../project-1.resub/assets/images/hero.jpeg)
+* ![screenshot](images.readme/hero.webp)
 
   ### F3, Iframe video
       The main purpose of the iframe video is to show the visitor what they can discover themselves if they think outside the box. Do they have a life hack or home remedy, they might get inspired and leave a comment to the website allowing the website to grow.
@@ -177,6 +177,13 @@ Or you could leave a message if you have a good one yourself, it's up to you.
     * In settings on the left side menu select "Pages".
     * Under branch, select "Main" and select folder "(Root)"
     * Press save and the page will automatically refresh and your site will be att the top. It might take a few minutes, be patient.
+
+* These are the steps to clone in GitHub:
+    * Log in to GitHub and go to repositories.
+    * In GitHub on the right side of the repository click on the green button "<> code".
+    * Click the http and copy the link.
+    * Open terminal gitbash and change current working directory to where you want the cloned directory to be.
+    * Write "git clone", then paste the link that you copied before, press enter to start a cloning process.
 
 
 ## Credits
