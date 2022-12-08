@@ -184,14 +184,15 @@ footer {
     opacity: 0.8;
     position: fixed;
     background: transparent;
-    left: 5%;
+    right: 5%;
     bottom: 0%;
     color: rgba(176, 221, 140, 0.74);
     z-index: 1;
 }
 
 #icon {
-    background: transparent;
+    background: rgb(57, 37, 37);
+    opacity: 0.6;
 }
 
 

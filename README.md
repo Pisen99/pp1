@@ -67,6 +67,11 @@ Or you could leave a message if you have a good one yourself, it's up to you.
         I used anchor element to make the button and put an icon inside of it.
         I styled it to have a green see through effect, that way it wont be taking over other content.
 
+        I realized the footer was covering a smal part of the button on a specific place. I fixed it by adding a     z-index to 1. I'll insert a before & after I saw the problem and fixed it:
+* ![screenshot](images.readme/scroll-up-1.png)
+* ![screenshot](images.readme/scroll-up.png)
+    
+
 
   ### F6, Footer
       The footer contains what is needed for the visitor to take the next step.
